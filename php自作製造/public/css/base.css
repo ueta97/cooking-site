@@ -1,0 +1,312 @@
+.login{
+    margin-top: 5%;
+    margin-left: 15%;
+    display: flex;
+}
+
+.login h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.login-right{
+    margin-top: 30px;
+    margin-left: 400px;
+}
+
+.login-right a{
+    margin-left: 20px;
+}
+
+.login-right a:hover{
+    text-decoration: underline;
+}
+
+.login-info{
+    margin-bottom: 30px;
+}
+
+.login-info input{
+    width: 300px;
+    height: 30px;
+}
+
+.login-info textarea{
+    width: 300px;
+    height: 90px;
+}
+
+.btn{
+    padding: 10px 30px 10px 30px;
+    font-weight: bold;
+}
+
+.error-message{
+    color: red;
+}
+
+.login span{
+    font-size: 8px;
+    color: red;
+    margin-left: 8px;
+}
+
+.all span{
+    font-size: 8px;
+    color: red;
+    margin-left: 8px;
+}
+
+h2{
+    font-weight: lighter;
+}
+
+.view-pass{
+    height: 30px;
+    margin-left: 5px;
+}
+
+a {
+    text-decoration: none;
+    color: black; 
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.site-title h1{
+    font-family: "Tsukushi A Round Gothic","筑紫A丸ゴシック";
+}
+
+.all{
+    margin-top: 5%;
+    margin-left: 15%;
+}
+
+.header-right{
+    margin-right: 15%;
+}
+
+.header-right a{
+    margin-left: 20px;
+}
+
+.header-right a:hover{
+    text-decoration: underline;
+}
+
+.header-right h2{
+    text-align: right;
+}
+
+.header-left h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.posts-image:hover{
+    opacity: 0.8;
+}
+
+.posts-left img{
+    border-radius: 10px;
+    height: 180px;
+    width: 180px;
+    margin: 10px;
+    object-fit: cover;
+}
+
+.main a:hover{
+    text-decoration: underline;
+}
+
+.posts{
+    border: 1px solid;
+    border-color: silver;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    width: 60%;
+    height: 200px;
+    display: flex;
+}
+
+.posts-left{
+    width: 30%;
+}
+
+.posts-right{
+    margin: 5px 30px;
+}
+
+.posts-right p{
+    margin-top: 50px;
+}
+
+.search{
+    margin-bottom: 50px;
+}
+
+.search-txt{
+    width: 300px;
+    height: 30px;
+}
+
+.search-btn{
+    height: 30px;
+    margin-left: 5px;
+}
+
+.producer{
+    margin-bottom: 50px;
+    display: flex;
+}
+
+.producer-left img{
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.producer-right{
+    margin-left: 30px;
+}
+
+.producer-right input{
+    margin-top: 20px;
+}
+
+.post-top{
+    display: flex;
+}
+
+.post-bottom{
+    display: flex;
+}
+
+.post-left img{
+    border-radius: 10px;
+    height: 400px;
+    width: 400px;
+    object-fit: cover;
+}
+
+.post-right{
+    margin-left: 50px;
+    width: 400px;
+}
+
+.cooking{
+    width: 400px;
+}
+
+.my-item{
+    margin-left: 50px;
+}
+
+.screen-title{
+    display: flex;
+}
+
+.post-bottom{
+    margin-top: 50px;
+}
+
+.item-info img{
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.edit-btn{
+    margin-bottom: 50px;
+}
+
+.create-btn{
+    margin-bottom: 50px;
+}
+
+.like-comment{
+    margin-top: 50px;
+}
+
+.comment{
+    margin-top: 25px;
+}
+
+.comment-wrapper tr.is-hidden {
+    display: none;
+}
+
+.textarea-view{
+    white-space: pre-wrap;
+}
+
+.page{
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.post-right a:hover{
+    text-decoration: underline;
+}
+
+.btns{
+    display: flex;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.edited-btn{
+    margin-right: 20px;
+}
+
+.editProducer-right{
+    margin-left: 20px;
+}
+
+.editProducer{
+    display: flex;
+}
+
+.editImage-btn{
+    margin-top: 20px;
+}
+
+.editProducer-left img{
+    border-radius: 10px;
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
+
+.like_counts{
+    display: flex;
+}
+
+.producer-right a:hover{
+    text-decoration: underline;
+}
+
+.editProducer-btn{
+    margin-top: 20px;
+}
+
+.url input{
+    width: 300px;
+}
+
+.login-left a:hover{
+    text-decoration: underline;
+}
+
+.reset-pass{
+    margin-top: 20px;
+}
+
+select{
+    margin-top: 10px;
+}
